@@ -6,7 +6,7 @@ frontend/node_modules/
 artifacts/
 cache/
 typechain-types/
-frontend/dist/assets/
+
 
 # Environment files
 .env
