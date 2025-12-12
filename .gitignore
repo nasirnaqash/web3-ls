@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+artifacts/
+cache/
+typechain-types/
+frontend/dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+frontend/.env
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage
+coverage/
+coverage.json
+
+# Hardhat
+deployments/
